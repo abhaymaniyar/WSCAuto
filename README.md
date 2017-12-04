@@ -1,2 +1,0 @@
-# WSCAuto
-WSC Automation - Jmeter
